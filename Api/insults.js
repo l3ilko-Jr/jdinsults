@@ -1,4 +1,4 @@
-export let insults = [
+module.exports = [
     "they said it isn't magic, its science. well, that doesnt seem to be true after the way you turned out",
     "oh, you said you had a girlfriend? hold on, let me try to find it in your imagination",
     "phenotype is the type of gene that you get for your looks. did the genes forget to assign you a few?",
