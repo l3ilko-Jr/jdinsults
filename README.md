@@ -9,11 +9,11 @@ $ npm install @l3ilkojr/
 ## Usage
 
 ```js
-const insults = require("@l3ilkojr/jdinsults");
+const insulter = require("@l3ilkojr/jdinsults");
 
-insults();
+insulter.Insult();
 // => Insults
 
-insults();
+insulter.Insult();
 // => Error
 ```
