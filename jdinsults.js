@@ -1,4 +1,4 @@
-const { insults } = require("./Api/insults");
+const insults = require("./Api/insults");
 
 Insult = () => {
     const insult = insults[Math.floor(Math.random() * insults.length)];
