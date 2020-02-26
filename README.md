@@ -3,7 +3,7 @@
 Generates insults
 
 ```
-$ npm install @l3ilkojr/
+$ npm install @l3ilkojr/jdinsults
 ```
 
 ## Usage
